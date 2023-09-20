@@ -171,8 +171,15 @@ footer {
         padding: 17px;
     }
 }
-@media screen and (max-width: 391px) {
+@media screen and (max-width: 310px) {
     .forwhom h5 {
-        padding: 28px;
+        font-size: 18px;
+        padding: 20px;
+    }
+}
+@media screen and (max-width: 283px) {
+    .forwhom h5 {
+        font-size: 17px;
+        padding: 20px;
     }
 }
